@@ -3,7 +3,7 @@
 Hallo my name is Cevi Herdian.
 
 Data-Driven minded with experience collaborating with cross-functional teams. 
-To ensure making an impact with data. Using predictive modeling (FORECASTING), Machine Learning and insight reporting to boost business efficiency, strategic goals, and innovation.
+To ensure making an impact with data. Using predictive modeling (FORECASTING), Operation Research, Machine Learning (AI) and insight reporting to boost business efficiency, strategic goals, and innovation.
 
 * IRI: Insight, Recommendation, and Impact. 
 

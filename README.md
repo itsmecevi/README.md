@@ -2,16 +2,10 @@
 
 Hallo my name is Cevi Herdian.
 
-Data-Driven minded with experience collaborating with cross-functional teams. 
-To ensure making an impact with data. Using predictive modeling (FORECASTING), Operation Research, Machine Learning (AI) and insight reporting to boost business efficiency, strategic goals, and innovation.
+A seasoned Senior Data Scientist with a strong background in developing and deploying cutting-edge machine-learning models and solutions. With a passion for data-driven problem-solving and a track record of successful projects in different industries, I excel in bridging the gap between data science and engineering to deliver tangible business value.
 
-* IRI: Insight, Recommendation, and Impact. 
-
-I have the skill and experience for most of the data-science steps and tools: data pre-processing (data cleaning), application of analytical methods, big data storage, a data visualization, and results in communication. I’m great at communication, I’m a very quick learner and I take the quality of my work extremely seriously.
+The computing and processing data technology capacity of computers hits double figures every 18 months. So, lifelong learning is a must! In the work environment, I'm funny and have a lot of humor because I believe that those who laugh the most learn the best (John Cleese).
 
 
 * Personal Web: https://itsmecevi.github.io/
-* General Project Docs: https://itsmecevi.github.io/portfolio/
 * Upgraded-Skill Certified: https://cutt.ly/D1aGw0r
-* Github: https://github.com/itsmecevi
-* Tableau Public: https://public.tableau.com/app/profile/cevi.herdian

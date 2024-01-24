@@ -7,3 +7,6 @@ A seasoned Senior Data Scientist with a strong background in developing and depl
 The computing and processing data technology capacity of computers hits double figures every 18 months. So, lifelong learning is a must!. Feel fre to contacting me at itsmecevi@gmail.com
 
 
+Personal web: itsmecevi.github.io
+
+
